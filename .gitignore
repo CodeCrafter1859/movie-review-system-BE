@@ -1,2 +1,4 @@
 movievenv
 .venv
+features.md
+__pycache__
